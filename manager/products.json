@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta",
+    "description": "Camiseta básica preta",
+    "price": 80,
+    "thumbnail": "thumbnail1.jpg",
+    "code": "ABC123",
+    "stock": 15
+  }
+]
